@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @reed-coder
 - 👀 I’m interested in Web-Development and shell-scripting
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and other modern web-dev-tools
